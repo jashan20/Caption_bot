@@ -11,12 +11,12 @@ import keras
 import json
 import pickle
 from tensorflow.keras.applications.inception_v3 import InceptionV3, preprocess_input, decode_predictions
-from keras.preprocessing import image
+from tensorflow.keras.preprocessing import image
 from keras.models import Model, load_model
-from keras.preprocessing.sequence import pad_sequences
+from keras.utils import pad_sequences
 from tensorflow.keras.utils import to_categorical
 from keras.layers import Input, Dense, Dropout, Embedding, LSTM
-from keras.layers.merge import add
+from keras.layers import Add
 
 import collections
 import random
