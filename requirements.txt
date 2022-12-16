@@ -1,6 +1,6 @@
 gunicorn==19.9.0
-Flask==1.1.2
-keras==2.7.0
+Flask
+keras
 matplotlib
 numpy
 pandas
