@@ -14,9 +14,9 @@
 
 Image | Caption 
 --- | --- 
-<img src="imgs/dog.jpg" width="300"> | **Generated Caption:**  A white and black dog is running through the water
-<img src="imgs/ski.jpg" width="300"> | **Generated Caption:** man is skiing on snowy hill
-<img src="imgs/worker.jpg" width="300"> | **Generated Caption:** man in red shirt is walking down the street
+<img src="imgs/dog.jpg" width="200"> | **Generated Caption:**  A white and black dog is running through the water
+<img src="imgs/ski.jpg" width="200"> | **Generated Caption:** man is skiing on snowy hill
+<img src="imgs/worker.jpg" width="200"> | **Generated Caption:** man in red shirt is walking down the street
 
 
 
